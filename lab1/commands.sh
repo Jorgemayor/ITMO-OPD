@@ -108,7 +108,7 @@ chmod u-w lairon9/shedinja
 cat lairon9/krabby klang1/omanyte > goldeen3_94
 
 #Task 5
-ln -s swellow3 lairon9/scytherswellow
+ln -s ../swellow3 lairon9/scytherswellow
 
 # Task 6
 ln -s gothita3 Copy_83
